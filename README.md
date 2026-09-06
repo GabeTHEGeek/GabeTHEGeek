@@ -37,8 +37,8 @@ Local first macOS AI dictation app.
 AI hiring intelligence for job discovery, fit scoring, and grounded applications.
 
 
-### ⚡ Current obsession
+## 🛠️ Exploring
 
-Building products where AI does more than answer questions.
+`AI Agents` · `RAG` · `LLMs` · `Vector Search` · `Automation` · `AI UX`
 
-**It remembers, retrieves, decides, acts, and improves.**
+🌐 [gabrielpendleton.me](https://gabrielpendleton.me)
