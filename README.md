@@ -1,6 +1,3 @@
-Absolutely. For GitHub, I’d make it feel more like a **builder profile** and less like plain resume text.
-
-```md
 # 👋 Hi, I'm Gabriel
 
 ### AI Product Manager • 2× Founder • Builder
