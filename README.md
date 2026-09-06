@@ -17,7 +17,7 @@ My work spans AI agents, RAG systems, intelligent workflows, and product automat
 A lot of what I build starts with a simple question: 
 **what becomes possible when software can reason, retrieve context, and act?** I like taking that question from idea to working product.
 
-## 🚀 What I'm Building
+## 🚀 My Obsessions
 
 `AI Agents` · `RAG` · `LLMs` · `Vector Search` · `Automation` · `AI UX`
 
