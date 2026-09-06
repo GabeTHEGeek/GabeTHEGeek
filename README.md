@@ -2,39 +2,14 @@
 
 ### AI Product Manager • 2× Founder • Builder
 
-I build AI products and experiments around:
+I'm an AI Product Manager and 2× founder focused on building practical AI products that move beyond demos and into real use. 
 
-🤖 AI agents  
-🧠 RAG and knowledge systems  
-🔀 Multi model workflows  
-⚙️ Product automation  
-🛠️ AI native product experiences  
-🎮 Human AI interaction  
+My work spans AI agents, RAG systems, intelligent workflows, and product automation, with a strong interest in how AI changes the way software is designed, operated, and experienced.
 
-A lot of my work starts with one question:
+A lot of what I build starts with a simple question: 
+**what becomes possible when software can reason, retrieve context, and act?** I like taking that question from idea to working product.
 
-> **What becomes possible now that software can reason and act?**
-
-Then I build it.
-
----
-
-## 🚀 Building
-
-### 🛰️ Fleet Command
-AI operations system for autonomous roles, memory, permissions, and execution.
-
-### 🧠 Ask Gabriel
-Production RAG knowledge agent with grounded answers and source backed retrieval.
-
-### 🎙️ SpeakIt
-Local first macOS AI dictation app.
-
-### 🎯 Maester
-AI hiring intelligence for job discovery, fit scoring, and grounded applications.
-
-
-## 🛠️ Exploring
+## 🚀 What I'm Building
 
 `AI Agents` · `RAG` · `LLMs` · `Vector Search` · `Automation` · `AI UX`
 
