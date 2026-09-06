@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Gabriel 👋
 
-<!--
-**GabeTHEGeek/GabeTHEGeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Product Manager. 2x Founder. Builder.
 
-Here are some ideas to get you started:
+I build AI products and experiments around agents, RAG,
+multi-model systems, product workflows, and human-AI interaction.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A lot of my work starts with a product question:
+"What becomes possible now that software can reason and act?"
+
+Then I build it.
+
+WHAT I'M BUILDING
+
+◈ Fleet Command
+An operating system for coordinating autonomous AI roles,
+permissions, workflows, memory, and execution.
+
+◈ Ask Gabriel
+A production RAG knowledge agent that answers grounded
+questions about my experience, projects, and writing.
+
+◈ SpeakIt
+A local-first macOS AI dictation experience.
+
+◈ Maester
+AI hiring intelligence with multi-source job discovery
+and grounded application generation.
