@@ -2,7 +2,7 @@
 
 ### AI Product Manager • 2× Founder • Builder
 
-I'm an AI Product Manager and 2× founder focused on building practical AI products that move beyond demos and into real use. 
+And i'm focused on building practical AI products that move beyond demos and into real use. 
 
 My work spans AI agents, RAG systems, intelligent workflows, and product automation, with a strong interest in how AI changes the way software is designed, operated, and experienced.
 
