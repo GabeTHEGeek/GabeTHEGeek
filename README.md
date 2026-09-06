@@ -1,28 +1,70 @@
-Hi, I'm Gabriel 👋
+# 👋 Hi, I'm Gabriel
 
-AI Product Manager. 2x Founder. Builder.
+### AI Product Manager • 2× Founder • Builder
 
-I build AI products and experiments around agents, RAG,
-multi-model systems, product workflows, and human-AI interaction.
+I build AI products and experiments around:
 
-A lot of my work starts with a product question:
-"What becomes possible now that software can reason and act?"
+🤖 AI agents  
+🧠 RAG and knowledge systems  
+🔀 Multi model workflows  
+⚙️ Product automation  
+🛠️ AI native product experiences  
+🎮 Human AI interaction  
+
+A lot of my work starts with one question:
+
+> **What becomes possible now that software can reason and act?**
 
 Then I build it.
 
-WHAT I'M BUILDING
+---
 
-◈ Fleet Command
-An operating system for coordinating autonomous AI roles,
-permissions, workflows, memory, and execution.
+## 🚀 What I'm Building
 
-◈ Ask Gabriel
-A production RAG knowledge agent that answers grounded
-questions about my experience, projects, and writing.
+### 🛰️ Fleet Command
+**AI Operations System**
 
-◈ SpeakIt
-A local-first macOS AI dictation experience.
+An operating system for coordinating autonomous AI roles, permissions, workflows, memory, evidence, and execution.
 
-◈ Maester
-AI hiring intelligence with multi-source job discovery
-and grounded application generation.
+`Agents` `Orchestration` `Memory` `Autonomy` `Multi Model`
+
+---
+
+### 🧠 Ask Gabriel
+**RAG Knowledge Agent**
+
+A production AI knowledge experience that answers grounded questions about my work, projects, writing, and experience using semantic retrieval and source backed generation.
+
+`RAG` `Embeddings` `Vector Search` `Grounding` `AI UX`
+
+---
+
+### 🎙️ SpeakIt
+**Local First AI Dictation**
+
+A private macOS dictation experience built around one simple interaction:
+
+**Hold a shortcut → speak → text appears at your cursor.**
+
+`Local AI` `Speech to Text` `macOS` `AI UX`
+
+---
+
+### 🎯 Maester
+**AI Hiring Intelligence**
+
+A multi source hiring system that discovers jobs, evaluates fit, and generates grounded application material without fabricating experience.
+
+`AI Agents` `Job Search` `LLMs` `Grounding` `Automation`
+
+---
+
+## 🧪 What I'm Exploring
+
+```text
+AI Agents              ████████████
+RAG Systems            ████████████
+Product + AI           ████████████
+Multi Model Systems    ███████████░
+Agent Autonomy         ███████████░
+Local AI               ██████████░░
