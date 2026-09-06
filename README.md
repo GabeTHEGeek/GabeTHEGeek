@@ -22,87 +22,20 @@ Then I build it.
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Building
 
 ### 🛰️ Fleet Command
-**AI Operations System**
-
-An operating system for coordinating autonomous AI roles, permissions, workflows, memory, evidence, and execution.
-
-`Agents` `Orchestration` `Memory` `Autonomy` `Multi Model`
-
----
+AI operations system for autonomous roles, memory, permissions, and execution.
 
 ### 🧠 Ask Gabriel
-**RAG Knowledge Agent**
-
-A production AI knowledge experience that answers grounded questions about my work, projects, writing, and experience using semantic retrieval and source backed generation.
-
-`RAG` `Embeddings` `Vector Search` `Grounding` `AI UX`
-
----
+Production RAG knowledge agent with grounded answers and source backed retrieval.
 
 ### 🎙️ SpeakIt
-**Local First AI Dictation**
-
-A private macOS dictation experience built around one simple interaction:
-
-**Hold a shortcut → speak → text appears at your cursor.**
-
-`Local AI` `Speech to Text` `macOS` `AI UX`
-
----
+Local first macOS AI dictation app.
 
 ### 🎯 Maester
-**AI Hiring Intelligence**
+AI hiring intelligence for job discovery, fit scoring, and grounded applications.
 
-A multi source hiring system that discovers jobs, evaluates fit, and generates grounded application material without fabricating experience.
-
-`AI Agents` `Job Search` `LLMs` `Grounding` `Automation`
-
----
-
-## 🧪 What I'm Exploring
-
-```text
-AI Agents              ████████████
-RAG Systems            ████████████
-Product + AI           ████████████
-Multi Model Systems    ███████████░
-Agent Autonomy         ███████████░
-Local AI               ██████████░░
-```
-
-I’m especially interested in the shift from:
-
-**AI as a feature → AI as a product → AI as an operating layer**
-
----
-
-## 🧭 How I Think About Building
-
-💡 Start with the product problem  
-🧪 Build the smallest real experiment  
-📊 Observe how the system behaves  
-🔁 Create feedback loops  
-⚙️ Automate what becomes repeatable  
-🚀 Ship before over engineering  
-
----
-
-## 🛠️ Current Playground
-
-`AI Agents` · `RAG` · `LLMs` · `Semantic Search` · `Vector Search` · `APIs` · `TypeScript` · `Product Strategy` · `Experimentation`
-
----
-
-## 🌐 Find Me
-
-🌍 [Portfolio](https://gabrielpendleton.me)  
-💼 LinkedIn  
-💻 GitHub  
-
----
 
 ### ⚡ Current obsession
 
