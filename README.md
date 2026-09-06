@@ -109,8 +109,3 @@ I’m especially interested in the shift from:
 Building products where AI does more than answer questions.
 
 **It remembers, retrieves, decides, acts, and improves.**
-```
-
-I like this version much more for you because it gives someone a reason to **scroll**. It has hierarchy, personality, technical substance, and your projects feel like actual products instead of bullet points.
-
-One tweak I’d consider next is adding a small **“Featured Builds” table with live/demo links and repo links** directly under “What I’m Building.” That would make the profile feel even more like proof rather than positioning.
