@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gabriel
+# Welcome, I'm Gabriel
 
 ### AI Product Manager • 2× Founder • Builder
 
